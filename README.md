@@ -1,2 +1,2 @@
 # pixy-object-tracking-robot
-A robot that tracks colored objects using Pixy camera and Arduino.
+A robot that tracks colored objects using Pixy camera, Arduino and Zumo Robot.
