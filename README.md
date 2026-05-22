@@ -1,2 +1,3 @@
 # pixy-object-tracking-robot
-A robot that tracks colored objects using Pixy camera, Arduino and Zumo Robot.
+A mobile robot that detects and follows a colored object using Pixy1 vision sensor, Zumo Robot Shield, and Arduino. 
+The robot uses PID control for smooth object tracking and proportional speed adjustment based on object distance.
